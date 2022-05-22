@@ -1,10 +1,7 @@
 # cs61a-2022-Spring
 
-CS61A: 计算机程序的结构和解释
 
-网站: https://cs61a.org/
-
-### CS61A 是什么?
+## CS61A 是什么?
 
 CS 61 系列是计算机科学的导论，从程序员的角度特别强调软件和计算机。
 
@@ -18,9 +15,9 @@ CS 61A 主要使用 Python 3。 Python 是工业界和学术界的流行语言�
 
 掌握特定的编程语言在 CS 61A 中是一件顺手的事 。 但是，我们的目标不是规定您在未来的工作中使用哪种语言。 相反，我们希望一旦你学会了编程所涉及的概念，你会发现学习一门新的编程语言只是几天的工作。
 
-### 友情链接
+## 友情链接
 
+- [课程网站](https://cs61a.org/)
 - [课程网站 (2020 Sumer)](https://inst.eecs.berkeley.edu/~cs61a/su20/)
 - [教科书 (SICP for python)](http://composingprograms.com/pages/11-getting-started.html) 
-
 - [在线编辑器 (支持 scheme, SQL 和 python)](https://code.cs61a.org)
