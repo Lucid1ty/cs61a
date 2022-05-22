@@ -6,10 +6,6 @@
 
 [English](https://github.com/Lucid1ty/cs61a/blob/main/README.md)
 
-CS61A: Structure and Interpretation of Computer Programs
-
-Website: https://cs61a.org/
-
 ### What is CS61A ?
 
 The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.
@@ -26,7 +22,8 @@ Mastery of a particular programming language is a very useful side effect of CS 
 
 ### Useful links
 
+- [Course Website](https://cs61a.org/)
 - [Course Website (2020 summer)](https://inst.eecs.berkeley.edu/~cs61a/su20/)
 - [Textbook (SICP for python)](http://composingprograms.com/pages/11-getting-started.html) 
-
 - [Online editor (support scheme, SQL and python)](https://code.cs61a.org)
+
