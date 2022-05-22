@@ -6,7 +6,7 @@
 
 [English](https://github.com/Lucid1ty/cs61a/blob/main/README.md)
 
-### What is CS61A ?
+## What is CS61A ?
 
 The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.
 
@@ -20,7 +20,7 @@ CS 61A primarily uses the Python 3 programming language. Python is a popular lan
 
 Mastery of a particular programming language is a very useful side effect of CS 61A. However, our goal is not to dictate what language you use in your future endeavors. Instead, our hope is that once you have learned the concepts involved in programming, you will find that picking up a new programming language is but a few days' work.
 
-### Useful links
+## Useful links
 
 - [Course Website](https://cs61a.org/)
 - [Course Website (2020 summer)](https://inst.eecs.berkeley.edu/~cs61a/su20/)
