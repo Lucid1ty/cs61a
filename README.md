@@ -1,4 +1,11 @@
 # cs61a-2022-Spring
+
+## Language/语言
+
+[中文](https://github.com/Lucid1ty/cs61a/blob/main/README-zh.md)
+
+[English](https://github.com/Lucid1ty/cs61a/blob/main/README.md)
+
 CS61A: Structure and Interpretation of Computer Programs
 
 Website: https://cs61a.org/
