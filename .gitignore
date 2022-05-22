@@ -136,4 +136,4 @@ dmypy.json
 .ok_storage.bak
 .ok_storage.dat
 .ok_storage.dir
-
+.ok_storage
